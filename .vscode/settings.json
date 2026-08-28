@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Air-Hokey.slnx"
+    "dotnet.defaultSolution": "air_rockey.slnx"
 }
